@@ -1,4 +1,3 @@
-import React from 'react'
 import { Platform } from '../hooks/useGames'
 import {
     FaWindows,
@@ -8,7 +7,7 @@ import {
     FaLinux,
     FaAndroid
 } from 'react-icons/fa'
-import { SiNintendo, SiAtari } from 'react-icons/si'
+import { SiNintendo } from 'react-icons/si'
 import { MdPhoneIphone } from 'react-icons/md'
 import { BsGlobe } from 'react-icons/bs'
 import { HStack, Icon } from '@chakra-ui/react'
